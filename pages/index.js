@@ -1,7 +1,7 @@
 function Home() {
   return (
     <div>
-      <h1>Bora pro cine blangers hj? kkkkk</h1>
+      <h1>Bora pro parque ibiras</h1>
     </div>
   );
 }
