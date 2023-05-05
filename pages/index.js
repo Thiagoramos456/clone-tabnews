@@ -1,7 +1,7 @@
 function Home() {
   return (
     <div>
-      <h1>Primeira página</h1>
+      <h1>Eae man kk Bora um cinemin no sábado?</h1>
     </div>
   );
 }
